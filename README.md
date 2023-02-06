@@ -1,3 +1,3 @@
 # LAB3-Krantenartikel
 ## Foto: opdracht 1
-![Alt text](image/img.jpg "Optional title")
+![My Image](../images/picture1.PNG)
