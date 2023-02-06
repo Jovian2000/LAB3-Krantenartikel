@@ -1,3 +1,7 @@
 # LAB3-Krantenartikel
 ## Foto: opdracht 1
-<!-- ![My Image](https://github.com/Jovian2000/LAB3-Krantenartikel/blob/master/images/picture1.PNG) -->
+<img
+    src="/path/to/img.jpg"
+    alt="screenshot van krantenartikel opdracht"
+    title="Optional title"
+    style="display: inline-block; margin: 0 auto; max-width: 300px">
