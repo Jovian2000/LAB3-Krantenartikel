@@ -1,0 +1,141 @@
+@font-face {
+  font-family: 'Roboto';
+  src: url('roboto.eot'); /* IE9 Compat Modes */
+  src: url('roboto.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+  url('roboto.woff') format('woff'), /* Modern Browsers */
+  url('roboto.ttf')  format('truetype'), /* Safari, Android, iOS */
+  url('roboto.svg#svgFontName') format('svg'); /* Legacy iOS */
+}
+
+img {
+    height: 500pt;
+    /* text-align: center; */
+}
+
+body {
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+    line-height: 26px;
+}
+
+.recipe-block {
+    max-width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h1 {
+    font-size: 36px;
+    padding-bottom: 20px;
+    line-height: 36px;
+    border-bottom: 1px solid black;
+}
+
+h2 {
+    font-size: 32px;
+    line-height: 32px;
+}
+
+.head-text p {
+    font-size: 24px;
+    line-height: 32px;
+}
+
+.recipe-block div {
+    margin: 40px;
+}
+
+.list-block li {
+    margin: 10px;
+}
+
+.list-block-two li{
+    margin: 20px;
+}
+
+.tip-block {
+    background-color: #def6ed;
+    border-radius: 4px;
+    padding: 25px;
+}
+
+.top-bar {
+    background-color: lightgray;
+    overflow: hidden;
+}
+
+.top-bar ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    width: 100%;
+}
+
+.top-bar li {
+    float: left;
+}
+
+.top-bar a {
+    float: left;
+    color: #000000;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+.top-bar a:hover {
+    background-color: grey;
+    color: white;
+}
+
+.top-bar a.active {
+    background-color: grey;
+    color: white;
+}
+
+.home-head {
+    text-align: center;
+}
+
+.home-head h1 {
+    font-size: 50px;
+}
+
+.home-head p {
+    font-size: 35px;
+}
+
+.recipe {
+    border: 1px solid black;
+    margin-left: 30%;
+    margin-right: 30%;
+    margin-top: 20px;
+}
+
+.recipe:hover {
+    border: 2px solid darkblue
+}
+
+.recipe a{
+    font-size: 35px;
+    text-decoration: none;
+    margin-bottom: 50px;
+    text-align: center;
+    display: block;
+    color:black
+}
+
+.recipe a:hover {
+    color: darkblue
+}
+
+.recipe img {
+    height: 200pt;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 50px;
+    padding-top: 25px;
+}
+
