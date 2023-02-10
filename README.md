@@ -12,8 +12,9 @@
     alt="screenshot van Opdracht 2"
     title="recept"
     style="display: inline-block; margin: 0 auto; max-width: 50px">
+
 <img
-    src="/screenshots/receptplaatjetwee.png" 
+    src="/screenshots/receptplaatjetwee.PNG" 
     alt="screenshot van Opdracht 2"
     title="recept"
     style="display: inline-block; margin: 0 auto; max-width: 50px">
