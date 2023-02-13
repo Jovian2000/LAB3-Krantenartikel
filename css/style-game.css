@@ -80,12 +80,16 @@ img {
     margin: 20px
 }
 
+#game-article {
+    width: 600px;
+}
+
 #image-article {
     display: flex;
 }
 
 #rate-article {
-    border-left: 1px solid gray
+    border-left: 1px solid gray;
 }
 
 footer {
@@ -99,3 +103,4 @@ footer a {
     background-color: transparent;
     color: grey
 }
+
