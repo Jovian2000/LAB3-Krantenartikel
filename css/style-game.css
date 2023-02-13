@@ -5,6 +5,10 @@
     color: white
 }
 
+h2 {
+    font-size: 23px;
+}
+
 nav {
     background-color:  #272727;
     overflow: hidden;
@@ -36,6 +40,9 @@ nav a#gamepick {
 main {
     margin-top: 20px;
     margin-bottom: 20px;
+    width: 1000px;
+    padding-left: 25%;
+    padding-right: 25%;
 }
 
 section {
@@ -68,7 +75,7 @@ li {
 }
 
 img {
-    height: 200px;
+    height: 100px;
     border: 2px solid gray;
     margin: 20px
 }

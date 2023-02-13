@@ -25,6 +25,7 @@
     alt="screenshot van Opdracht 3"
     title="recept"
     style="display: inline-block; margin: 0 auto; max-width: 50px">
+    
 <img
     src="/screenshots/game-catalog-twee.png" 
     alt="screenshot van Opdracht 3"
